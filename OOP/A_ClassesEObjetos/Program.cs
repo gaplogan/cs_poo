@@ -23,6 +23,6 @@ namespace A_ClassesEObjetos
 
     class OutraClasse
     {
-
+        // Alteração de Teste GIT
     }
 }
